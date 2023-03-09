@@ -4,7 +4,7 @@ This project is an implementation of a Convolutional Neural Network (CNN) for im
 
 The project is divided into several stages:
 
-1. Data Acquisition: The dataset of images was obtained from the Flickr API using the FlickrAPI library. The dataset contains images of cats, dogs, and elephants.
+1. <font>**Data Acquisition**</font>: The dataset of images was obtained from the Flickr API using the FlickrAPI library. The dataset contains images of cats, dogs, and elephants.
 2. Data Preprocessing: The preprocessing stage involved resizing the images, normalizing the pixel intensities, and splitting the dataset into training, validation, and test sets. This stage used OpenCV and TensorFlow libraries to preprocess the data. Images with incompatible extensions were removed.
 3. Model Building: The model was built using Conv2D, MaxPooling2D, Flatten, Dense, and Dropout layers. The model used the softmax activation function for the output layer to output probabilities for the three classes.
 4. Model Training: The model was trained using the training set, and its performance was evaluated on the validation set after each epoch. The best model was saved to disk.
