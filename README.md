@@ -15,3 +15,16 @@ Additionally, a Telegram bot was implemented using the python-telegram-bot libra
 
 The final model achieved an accuracy of 100% on the test set.
 Overall, this project demonstrates the use of CNNs for image classification tasks and provides a working example of how to build, train, and evaluate a model.
+
+Technologies Used
+## <font color=black>**Here are the technologies I used for this project:**</font>
+
+Python
+TensorFlow
+Keras
+FlickrAPI
+NumPy
+Pandas
+OpenCV
+Matplotlib
+Telegram Bot API
