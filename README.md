@@ -13,11 +13,10 @@ The project is divided into several stages:
 
 Additionally, a Telegram bot was implemented using the python-telegram-bot library to provide updates on the training process via Telegram.
 
-The final model achieved an accuracy of 100% on the test set.
+The final model achieved an accuracy of 77% on the test set.
 Overall, this project demonstrates the use of CNNs for image classification tasks and provides a working example of how to build, train, and evaluate a model.
 
-Technologies Used
-## <font color=black>**Here are the technologies I used for this project:**</font>
+## <font color=black>**Technologies Used:**</font>
 
 Python
 TensorFlow
